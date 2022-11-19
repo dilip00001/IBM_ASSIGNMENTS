@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    box-sizing:border-box;
+    
+}
+
+a{
+    text-decoration:none;
+    list-style-type:none;
+    position:relative;
+    float:right;
+   
+}
+
+ul{
+    font-size: 25px;
+    color:grey;
+    
+}
+
+.main-pic{
+  position: relative;
+  max-width:30em;
+  max-height:35em;
+  width: auto;
+  height: auto;
+  float: right;
+  margin-right: 5em;
+ 
+
+}
+
+.nav{
+    position:relative;
+    float: right;
+    left: 45em;
+
+    
+}
